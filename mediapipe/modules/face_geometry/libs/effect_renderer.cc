@@ -12,6 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+// This file was last modified by VMan_2002 on 21 October 2022
+
 #include "mediapipe/modules/face_geometry/libs/effect_renderer.h"
 
 #include <cmath>
